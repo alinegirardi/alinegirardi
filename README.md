@@ -1,9 +1,8 @@
-# 👩‍💻 Aline Girardi
+# 👩‍💻 Aline Girardi - Analista de Teste/QA
 
 **Analista de Testes | CTFL | CTFL-AT | Scrum | Cypress**
 
 📍 Brasília/DF  
-📞 (61) 98562-9358  
 📧 alinegirardiunb@gmail.com  
 [🔗 LinkedIn](https://www.linkedin.com/in/alinegirardi)  
 [💻 GitHub](https://github.com/alinegirardi)  
@@ -12,7 +11,7 @@
 
 ## 🧩 Sobre mim
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** e **Biblioteconomia**, com uma trajetória marcada por evolução constante, foco em qualidade de software e melhoria contínua. Atuo como **Analista de Testes**, com experiência prática em testes exploratórios e especial interesse em **automação de testes**.
+Sou formada em **Análise e Desenvolvimento de Sistemas**, com uma trajetória marcada por evolução constante, foco em qualidade de software e melhoria contínua. Atuo como **Analista de Testes**, com experiência prática em testes exploratórios e especial interesse em **automação de testes**.
 
 Com conhecimento em ferramentas modernas como **Cypress**, **Selenium**, **Postman** e **GitHub**, procuro sempre aplicar **boas práticas de QA** e contribuir para entregas mais confiáveis e eficientes.
 
@@ -21,8 +20,7 @@ Com conhecimento em ferramentas modernas como **Cypress**, **Selenium**, **Postm
 ## 🎓 Formação Acadêmica
 
 - **Análise e Desenvolvimento de Sistemas** – Universidade Católica de Brasília (2022 - 2024) ✔️  
-- **Biblioteconomia** – Universidade de Brasília - UnB (2013 - 2017) ✔️  
-- **Pós-graduação em Gestão de Documentos Jurídicos** – Unyleya (2018 - 2019) ✔️  
+- **Biblioteconomia** – Universidade de Brasília - UnB (2013 - 2017) ✔️   
 
 ---
 
@@ -36,11 +34,10 @@ Com conhecimento em ferramentas modernas como **Cypress**, **Selenium**, **Postm
 
 ## 📚 Cursos e Especializações
 
-- **Engenheiro de Qualidade de Software** – EBAC (2023 – Cursando)  
-- **Plano de testes e gestão de bugs** – Alura (2022 – Concluído)  
-- **Java JRE e JDK: compile e execute o seu programa** – Alura (2023 – Concluído)  
-- **Desenvolvimento de jogo com Javascript e HTML** – Alura (2022 – Concluído)  
-- Outros tópicos: Cypress Cross, Selenium WebDriver, Testes em DevOps, Docker, Mobile, SQL, NoSQL, Testes de Segurança, BDD
+- **Engenheiro de Qualidade de Software** – EBAC (2023)  
+- **Plano de testes e gestão de bugs** – Alura (2022)  
+- **Java JRE e JDK: compile e execute o seu programa** – Alura (2023)  
+- **Desenvolvimento de jogo com Javascript e HTML** – Alura (2022)  
 
 ---
 
@@ -89,7 +86,7 @@ Com conhecimento em ferramentas modernas como **Cypress**, **Selenium**, **Postm
 - Projetos testados: MeuPatrocínio e Netshoes
 
 ### Bibliotecária  
-**Alcoforado Advogados Associados** – 2020 até o momento  
+**Alcoforado Advogados Associados** – 2020
 - Processamento técnico de materiais no sistema Biblivre  
 - Atendimento ao usuário e elaboração de informativos jurídicos  
 - Transferência de soft skills para QA: organização, padronização e atenção aos detalhes  
